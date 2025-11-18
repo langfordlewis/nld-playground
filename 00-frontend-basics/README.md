@@ -13,7 +13,7 @@ Follow the exercises step by step and check them off as you complete them ✅.
   - `<article>` and `<aside>`
   - `<nav>` with links
 
-- [ ] Add text-level semantics:
+- [x] Add text-level semantics:
   - `<p>`, `<strong>`, `<em>`, `<mark>`, `<abbr>`
   - `<blockquote>` and `<cite>`
   - `<time>` element
